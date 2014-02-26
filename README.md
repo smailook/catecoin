@@ -1,4 +1,0 @@
-catecoin
-========
-
-Catecoin source code 
